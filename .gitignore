@@ -51,5 +51,6 @@ buck-out/
 
 # Expo
 .expo/
+package-lock.json
 web-build/
 dist/
